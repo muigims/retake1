@@ -18,13 +18,25 @@ mkdir -p ~/retake_ws/src
 cd retake_ws
 ```
 ```
-cd src/
+colcon build
+```
+```
+cd
+```
+```
+gedit .bashrc
+```
+เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
+6.ลง pkg turtlesim_plus
+```
+cd retake_ws/src/
+```
+```
+git clone https://github.com/tchoopojcharoen/turtlesim_plus.git
+```
+```
+cd
 ```
 ```
 colcon build
 ```
-```
-gedit .bashrc
-```<br>
-เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
-
