@@ -8,14 +8,15 @@
 - เต่าทั้ง 4 ตัว ทิ้งพิซซ่าตามเต่าตัวแรกที่เดินเก็บ path 4 รอบไว้ โดยมี namespace ตามที่กำหนด
 - เมื่อทิ้งพิซซ่าเรียบร้อยแล้ว ให้เต่าทั้ง 4 ตัวไปรวมกันอยู่ที่มุมบนขวาของหน้าจอ
 
-1.เริ่มจากโหลดไฟล์ 6525_6555.zip ลงเครื่อง<br>
-2.กด Extract here <br>
-3. สร้าง workspace <br>
+**install**
+- ริ่มจากโหลดไฟล์ 6525_6555.zip ลงเครื่อง<br>
+- กด Extract here <br>
+- สร้าง workspace <br>
 ```
 mkdir -p ~/retake_ws/src
 ```
-4.เอา folder src ที่อยู่ใน folder 6525_6555 มาวางไว้ใน workspace <br>
-5.ทำการ build <br>
+- เอา folder src ที่อยู่ใน folder 6525_6555 มาวางไว้ใน workspace <br>
+- ทำการ build <br>
 ```
 cd retake_ws
 ```
@@ -28,12 +29,12 @@ cd
 ```
 gedit .bashrc
 ```
-เพิ่มคำสั่งนี้ลงด้านล่างของไฟล์
+- เพิ่มคำสั่งนี้ลงด้านล่างของไฟล์
 ```
 source ~/retake_ws/install/setup.bash 
 ```
 
-6.หากยังไม่มี package turtlesim_plus ให้ลงตามนี้
+- หากยังไม่มี package turtlesim_plus ให้ลงตามนี้
 ```
 cd retake_ws/src/
 ```
