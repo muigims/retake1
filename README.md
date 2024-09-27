@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/fcc6ec2d-6748-479a-81ec-457a4ebe0238)![image](https://github.com/user-attachments/assets/a4eb373e-6374-49cb-8dab-94c200c90aa7)![image](https://github.com/user-attachments/assets/4a1fae99-90fa-49ba-b24b-35c14c28de17)# ROS2 Turtlesim Promax Project Reatake
+# ROS2 Project Retake
+
 **requirement**
 - สร้างเต่าที่สามารถควบคุมจากคีย์บอร์ด และทิ้งพิซซ่า โดยต้องสามารถเก็บเส้นทาง 4 ครั้ง และสามารถกดลบ และส่งค่ไป yaml file ได้
 - สร้างเต่าสำหรับ clear พิซซ่า ตามที่เต่าตัวแรกทิ้งไว้
@@ -86,13 +87,16 @@ rqt
 ```
 
 เปลี่ยน เพิ่ม จำนวน limit pizza บน rqt
-![image](https://github.com/user-attachments/assets/68ef922d-17f9-4c60-bbe5-ee407413c8e1)
+![image](https://github.com/user-attachments/assets/7e1ed2a0-9134-4274-9155-2395b250bc3f)
 
 check ค่า param บนเทอมินอล
-![image](https://github.com/user-attachments/assets/dcef6349-aae0-4e1b-8c30-bcf3e132cce5)
+![image](https://github.com/user-attachments/assets/de9809ac-dc2d-4d67-9571-72337ad9c113)
 
 ลองเปลี่ยนค่า Kp_d Kp_theta
-![image](https://github.com/user-attachments/assets/6b78a295-a685-4432-8874-e2155219aa77)
+![image](https://github.com/user-attachments/assets/ec5b99ce-c457-4842-a125-0167f62aaf20)
 
 
-#Contributor 
+# **Contributor** 
+นายทัศน์พล สินเมือง 65340500025
+นางสาวสิริมณี มณีเวศย์วโรดม 65340500055
+<br>
