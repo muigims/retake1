@@ -12,7 +12,7 @@
 ```
 mkdir -p ~/retake_ws/src
 ```
-4.เอา folder 6525_6555 มาวางไว้ใน workspace<br>
+4.เอา folder src ที่อยู่ใน folder 6525_6555 มาวางไว้ใน workspace <br>
 5.ทำการ build <br>
 ```
 cd retake_ws
@@ -27,7 +27,7 @@ cd
 gedit .bashrc
 ```
 เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
-6.ลง pkg turtlesim_plus
+6.หากยังไม่มี package turtlesim_plus ให้ลงตามนี้
 ```
 cd retake_ws/src/
 ```
@@ -39,4 +39,13 @@ cd
 ```
 ```
 colcon build
+```
+
+**launch**
+ในการ run file ให้สามารถใช้งานได้ ต้องพิมพ์คำสั่งดังนี้
+```
+ros2 launch exam1 launch.py 
+```
+```
+ros2 run exam1 teleop_key.py 
 ```
