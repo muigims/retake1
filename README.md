@@ -41,7 +41,7 @@ cd
 colcon build
 ```
 
-**launch**
+**launch** <br>
 ในการ run file ให้สามารถใช้งานได้ ต้องพิมพ์คำสั่งดังนี้
 ```
 ros2 launch exam1 launch.py 
@@ -49,3 +49,9 @@ ros2 launch exam1 launch.py
 ```
 ros2 run exam1 teleop_key.py 
 ```
+**แก้ param in rqt_grqph**
+```
+rqt
+```
+![image](https://github.com/user-attachments/assets/01db6e8d-3078-480a-8e61-b08c15167e4e)
+
