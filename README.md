@@ -27,7 +27,10 @@ cd
 ```
 gedit .bashrc
 ```
-เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
+เพิ่มคำสั่งนี้ลงด้านล่างของไฟล์
+```
+source ~/retake_ws/install/setup.bash 
+```
 
 6.หากยังไม่มี package turtlesim_plus ให้ลงตามนี้
 ```
