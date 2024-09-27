@@ -53,5 +53,6 @@ ros2 run exam1 teleop_key.py
 ```
 rqt
 ```
+แก้ param แล้วกด enter
 ![image](https://github.com/user-attachments/assets/01db6e8d-3078-480a-8e61-b08c15167e4e)
 
