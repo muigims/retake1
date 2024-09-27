@@ -9,7 +9,7 @@
 - เมื่อทิ้งพิซซ่าเรียบร้อยแล้ว ให้เต่าทั้ง 4 ตัวไปรวมกันอยู่ที่มุมบนขวาของหน้าจอ
 
 **System architecture**
-![image](https://github.com/user-attachments/assets/236dc16c-081d-43ce-9fa9-1c6d652079da)
+![teleop_key (9)](https://github.com/user-attachments/assets/b32f9333-814b-4100-9145-dafa4039d280)
 
 **install**
 - เริ่มจากโหลดไฟล์ 6525_6555.zip ลงเครื่อง<br>
