@@ -85,8 +85,8 @@ spawn pizza ครั้งที่ 4
 finish >.<
 
 
-**แก้ param in rqt_grqph**
-สามารถแก้ค่า param ต่าง ๆ ได้ดังนี้ 
+**แก้ parameter** <br>
+สามารถแก้ค่า parameter ต่าง ๆ ได้ดังนี้ 
 ```
 rqt
 ```
