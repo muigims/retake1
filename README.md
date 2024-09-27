@@ -8,6 +8,9 @@
 - เต่าทั้ง 4 ตัว ทิ้งพิซซ่าตามเต่าตัวแรกที่เดินเก็บ path 4 รอบไว้ โดยมี namespace ตามที่กำหนด
 - เมื่อทิ้งพิซซ่าเรียบร้อยแล้ว ให้เต่าทั้ง 4 ตัวไปรวมกันอยู่ที่มุมบนขวาของหน้าจอ
 
+**System architecture**
+![image](https://github.com/user-attachments/assets/236dc16c-081d-43ce-9fa9-1c6d652079da)
+
 **install**
 - เริ่มจากโหลดไฟล์ 6525_6555.zip ลงเครื่อง<br>
 - กด Extract here <br>
