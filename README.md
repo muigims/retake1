@@ -27,6 +27,7 @@ cd
 gedit .bashrc
 ```
 เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
+
 6.หากยังไม่มี package turtlesim_plus ให้ลงตามนี้
 ```
 cd retake_ws/src/
@@ -49,10 +50,17 @@ ros2 launch exam1 launch.py
 ```
 ros2 run exam1 teleop_key.py 
 ```
+![image](https://github.com/user-attachments/assets/2c8a9d95-8937-492f-94f9-6ea03031f04b)
+
+ลอง spawn pizza จะมี info แสดงปุ่มที่กด เเละเมื่อวางพิซซ่า ก็จะบอกตำเเหน่ง เเละ จำนวนพิซซ่าที่เหลือ
+https://media.discordapp.net/attachments/1278701906335629323/1289068946380685324/image.png?ex=66f77a82&is=66f62902&hm=212ed143facc6881b985df0757de31de35da6ba47274f6383c18620fb97403d0&=&format=webp&quality=lossless&width=1110&height=660
+
 **แก้ param in rqt_grqph**
+สามารถแก้ param 
 ```
 rqt
 ```
 แก้ param แล้วกด enter
 ![image](https://github.com/user-attachments/assets/01db6e8d-3078-480a-8e61-b08c15167e4e)
 
+**Demo**
