@@ -14,4 +14,17 @@ mkdir -p ~/retake_ws/src
 ```
 4.เอา folder 6525_6555 มาวางไว้ใน workspace
 5.ทำการ build 
-'''
+```
+cd retake_ws
+```
+```
+cd src/
+```
+```
+colcon build
+```
+```
+gedit .bashrc
+```
+เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
+
