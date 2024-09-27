@@ -6,14 +6,14 @@
 - เต่าทั้ง 4 ตัว ทิ้งพิซซ่าตามเต่าตัวแรกที่เดินเก็บ path 4 รอบไว้ โดยมี namespace ตามที่กำหนด
 - เมื่อทิ้งพิซซ่าเรียบร้อยแล้ว ให้เต่าทั้ง 4 ตัวไปรวมกันอยู่ที่มุมบนขวาของหน้าจอ
 
-1.เริ่มจากโหลดไฟล์ 6525_6555.zip ลงเครื่อง
-2.กด Extract here
-3. สร้าง workspace 
+1.เริ่มจากโหลดไฟล์ 6525_6555.zip ลงเครื่อง<br>
+2.กด Extract here<br>
+3. สร้าง workspace <br>
 ```
 mkdir -p ~/retake_ws/src
 ```
-4.เอา folder 6525_6555 มาวางไว้ใน workspace
-5.ทำการ build 
+4.เอา folder 6525_6555 มาวางไว้ใน workspace<br>
+5.ทำการ build <br>
 ```
 cd retake_ws
 ```
@@ -25,6 +25,6 @@ colcon build
 ```
 ```
 gedit .bashrc
-```
+```<br>
 เพิ่ม source ~/retake_ws/install/setup.bash ลงด้านล่างของไฟล์
 
